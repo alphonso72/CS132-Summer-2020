@@ -1,0 +1,18 @@
+c#132 
+namespace Numeric Operations 
+Class Programs
+static woid Main{string() args}
+int run1 = 20;
+int run2 = 72;
+float num3 = 5.2f;
+float sum = num1 + num2 + num3;
+int subtract = num1 + num2;
+int multiply = num1 * num2;
+float divide = num1 / num3;
+int modulas = num2 % num1;
+
+Consule WriteLine("sum of 3 numbers is; " + sum);
+ Consule WriteLine("77 - 20 is: " + subtract);
+ Consule WriteLine("20 * 77 is: " = multiply);
+ Consule WriteLine("20 / 5.2 is: " + divide);
+ Consule WriteLine ("77 % 20 is " + modulas);
